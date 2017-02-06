@@ -20,13 +20,13 @@ public class RssController {
 	private Environment environment;
 
 	@Autowired
-	private ArticleExctractor articleExctractor;
+	private ArticleExtractor articleExtractor;
 	
 	@RequestMapping(value="/rssAsJson/{feedId}", 
 			method = RequestMethod.GET,
 			produces={"application/json"})
 	public List<Article> getFeedDisplayInfo(@PathVariable("feedId") String feedId) {
 		String rssUrl = Optional.ofNullable((String)environment.getProperty(feedId)).orElseThrow(()->new RssFeedException("Unsupported Feed: "+feedId));
-		return articleExctractor.apply(rssUrl);
+		return articleExtractor.apply(rssUrl);
 	}
 }
