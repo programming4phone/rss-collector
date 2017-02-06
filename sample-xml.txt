@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>www.nwitimes.com - RSS Results of type article</title>
+        <link>http://www.nwitimes.com/search/?app=editorial&amp;q=&amp;t=article&amp;l=10&amp;d=&amp;d1=&amp;d2=&amp;s=start_time&amp;sd=desc&amp;fl=urgent&amp;f=rss</link>
+        <atom:link href="http://www.nwitimes.com/search/?app=editorial&amp;q=&amp;t=article&amp;l=10&amp;d=&amp;d1=&amp;d2=&amp;s=start_time&amp;sd=desc&amp;fl=urgent&amp;f=rss" rel="self" type="application/rss+xml" />
+        <description>
+		www.nwitimes.com - RSS Results
+		only for asset type(s) of article
+	</description>
+        <generator>TNCMS 1.33.3</generator>
+        <docs>http://www.rssboard.org/rss-specification</docs>
+        <ttl>30</ttl>
+
+        <item>
+            <title>Gary school finances fix could include ban on new charter schools</title>
+            <description>INDIANAPOLIS — Hoosier lawmakers may consider prohibiting new charter schools from opening in Gary as part of a plan — using a state-appointed emergency manager — to right the finances of the debt-ridden Gary Community School Corp.</description>
+            <pubDate>Mon, 06 Feb 2017 06:00:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.nwitimes.com/tncms/asset/editorial/f664bf14-c631-541f-8d5b-18c6a0835ac0</guid>
+            <link>http://www.nwitimes.com/news/local/govt-and-politics/gary-school-finances-fix-could-include-ban-on-new-charter/article_f664bf14-c631-541f-8d5b-18c6a0835ac0.html</link>
+            <dc:creator>Dan Carden dan.carden@nwi.com, 317-637-9078</dc:creator>
+            <enclosure url="http://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/c/91/c91c78c0-20e4-5b20-bcd2-fafda859d0d8/57962324331a2.image.jpg?resize=300%2C225" length="396254" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>EPA: East Chicago residents should use water filters</title>
+            <description>It’s possible up to 90 percent of homes in East Chicago have lead water lines, so all residents should assume they have them and use a properly certified filter, officials said.</description>
+            <pubDate>Mon, 06 Feb 2017 05:00:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.nwitimes.com/tncms/asset/editorial/9e06a949-937f-5610-8c6b-a1316ff9a73d</guid>
+            <link>http://www.nwitimes.com/news/local/lake/epa-east-chicago-residents-should-use-water-filters/article_9e06a949-937f-5610-8c6b-a1316ff9a73d.html</link>
+            <dc:creator>Sarah Reese sarah.reese@nwi.com, 219-933-3351</dc:creator>
+            <enclosure url="http://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/2/ea/2ea3c218-1f42-5efb-96b4-1f267c23b47a/5897b23568d79.image.jpg?resize=300%2C200" length="176369" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>LOCAL WEATHER FORECAST</title>
+            <description>Local weather forecast for Monday, Feb. 6, 2017:</description>
+            <pubDate>Sun, 05 Feb 2017 23:00:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.nwitimes.com/tncms/asset/editorial/618f99f5-18cf-5519-a965-7610f30cd308</guid>
+            <link>http://www.nwitimes.com/local-weather-forecast/article_618f99f5-18cf-5519-a965-7610f30cd308.html</link>
+            <author>scott.lawson@nwi.com (Scott  Lawson)</author>
+        </item>
+
+        <item>
+            <title>Brady earns 4th Super Bowl MVP trophy</title>
+            <description>HOUSTON — The greatest quarterback in NFL history led the biggest Super Bowl comeback to be the MVP on Sunday night.</description>
+            <pubDate>Sun, 05 Feb 2017 22:05:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.nwitimes.com/tncms/asset/editorial/3cb7f233-5914-58e5-8828-3a9d67ff753d</guid>
+            <link>http://www.nwitimes.com/sports/football/professional/superbowl/brady-earns-th-super-bowl-mvp-trophy/article_3cb7f233-5914-58e5-8828-3a9d67ff753d.html</link>
+            <dc:creator>Kristie Rieken AP Sports Writer</dc:creator>
+            <enclosure url="http://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/7/6d/76d3ff71-4111-5912-89da-41026ebd9c3e/5897f6a700be9.image.jpg?resize=300%2C200" length="22464" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Britain to mark Queen Elizabeth II's record 65-year reign</title>
+            <description>LONDON — Queen Elizabeth II is poised for another historic milestone, an unprecedented 65 years on the throne.</description>
+            <pubDate>Sun, 05 Feb 2017 22:00:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.nwitimes.com/tncms/asset/editorial/cfe91496-a986-584b-8de3-f865ecd5b346</guid>
+            <link>http://www.nwitimes.com/news/world/britain-to-mark-queen-elizabeth-ii-s-record--year/article_cfe91496-a986-584b-8de3-f865ecd5b346.html</link>
+            <dc:creator>Associated Press</dc:creator>
+            <enclosure url="http://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/7/6a/76a05de8-210d-59e7-bc9e-2d6d49c002ab/5897cff7c2ecb.image.jpg?resize=300%2C213" length="390398" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Edelman collects on crazy catch for Pats</title>
+            <description>HOUSTON — You could say the Super Bowl owed 'em one. Julian Edelman was the man to collect.</description>
+            <pubDate>Sun, 05 Feb 2017 21:59:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.nwitimes.com/tncms/asset/editorial/08d600b7-00a3-5a8b-bc37-2826ce7a5f14</guid>
+            <link>http://www.nwitimes.com/sports/football/professional/superbowl/edelman-collects-on-crazy-catch-for-pats/article_08d600b7-00a3-5a8b-bc37-2826ce7a5f14.html</link>
+            <dc:creator>Eddie Pells AP National Writer</dc:creator>
+            <enclosure url="http://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/7/76/7761a7c5-254f-5df6-b876-8bb50f755fc2/5897f5b590e97.image.jpg?resize=300%2C199" length="44747" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Falcons' flop a new low for Atlanta's sad sporting history</title>
+            <description>ATLANTA — Well, Atlanta, there's nothing left to say.</description>
+            <pubDate>Sun, 05 Feb 2017 22:00:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.nwitimes.com/tncms/asset/editorial/f899f1aa-f253-5757-a5cf-0daa3bd6d734</guid>
+            <link>http://www.nwitimes.com/sports/football/professional/superbowl/falcons-flop-a-new-low-for-atlanta-s-sad-sporting/article_f899f1aa-f253-5757-a5cf-0daa3bd6d734.html</link>
+            <dc:creator>Paul Newberry AP Sports Writer</dc:creator>
+            <enclosure url="http://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/9/00/900929cf-5d36-51d5-a49b-508833027e77/5897f40f738a1.image.jpg?resize=300%2C200" length="239475" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Brady sparks Pats' rally to win fifth SB title</title>
+            <description>HOUSTON — Tom Brady led one of the greatest comebacks in sports history highlighted by an unbelievable Julian Edelman catch that helped lift New England from a 25-point hole against the Atlanta Falcons to the Patriots' fifth Super Bowl victory,&#8230;</description>
+            <pubDate>Sun, 05 Feb 2017 22:00:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.nwitimes.com/tncms/asset/editorial/e9e98639-e590-5f1e-88f2-0f7baf72631e</guid>
+            <link>http://www.nwitimes.com/sports/football/professional/superbowl/brady-sparks-pats-rally-to-win-fifth-sb-title/article_e9e98639-e590-5f1e-88f2-0f7baf72631e.html</link>
+            <dc:creator>Barry Wilner AP Pro Football Writer</dc:creator>
+            <enclosure url="http://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/9/41/94115336-9272-5823-9388-0e1ac4e2c970/5897f4c68b742.image.jpg?resize=300%2C200" length="209890" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Despite White House warning, Israel pushes settlement bill</title>
+            <description>JERUSALEM — Israel's prime minister is moving ahead with a contentious law that would legalize dozens of settlement outposts in the West Bank, despite claims by experts that the bill itself is illegal and a warning from the White House&#8230;</description>
+            <pubDate>Sun, 05 Feb 2017 21:00:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.nwitimes.com/tncms/asset/editorial/d714242d-200a-5a68-9ab0-3779f0bc5f04</guid>
+            <link>http://www.nwitimes.com/news/world/despite-white-house-warning-israel-pushes-settlement-bill/article_d714242d-200a-5a68-9ab0-3779f0bc5f04.html</link>
+            <dc:creator>JOSEF FEDERMAN, Associated Press</dc:creator>
+            <enclosure url="http://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/0/48/048b066a-0657-5a07-87b8-a67bbcc4327d/5897ce1a312ac.image.jpg?resize=300%2C201" length="198611" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Travelers arrive in US to hugs and tears after ban is lifted</title>
+            <description>BOSTON — Travelers from the seven predominantly Muslim countries targeted by President Donald Trump enjoyed tearful reunions with loved ones in the U.S. on Sunday after a federal judge swept the ban aside.</description>
+            <pubDate>Sun, 05 Feb 2017 21:00:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.nwitimes.com/tncms/asset/editorial/1d87efc3-88c6-5902-83eb-56691bbf9d8c</guid>
+            <link>http://www.nwitimes.com/news/national/travelers-arrive-in-us-to-hugs-and-tears-after-ban/article_1d87efc3-88c6-5902-83eb-56691bbf9d8c.html</link>
+            <dc:creator>DENISE LAVOIE and WILLIAM MATHIS, Associated Press</dc:creator>
+            <enclosure url="http://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/e/cd/ecdc4248-227a-5eae-8a9c-9bc00f2fa350/5897d2510d95e.image.jpg?resize=300%2C200" length="338991" type="image/jpeg" />
+        </item>
+
+    </channel>
+</rss>
