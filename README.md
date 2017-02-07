@@ -12,7 +12,7 @@ This web service is currently deployed on Heroku and can be accessed in a web br
 
 For example, to get the headlines for Lake County, IN, use this link: 
 
-[https://rss-collector-001.herokuapp.com/rssAsJson/nwitimes-lake] (https://rss-collector-001.herokuapp.com/rssAsJson/nwitimes-lake).
+[https://rss-collector-001.herokuapp.com/rssAsJson/nwitimes-lake] (https://rss-collector-001.herokuapp.com/rssAsJson/nwitimes-lake)
 
 ## Development stack
 
