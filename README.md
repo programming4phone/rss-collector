@@ -6,12 +6,13 @@ Currently the only supported RSS feed originates from the [nwitimes.com] (http:/
 
 ## Using this web service
 
-This web service is currently deployed on Heroku and can be accessed in a web browser using this link `https://rss-collector-001.herokuapp.com/rssAsJson/{feedId}` and substituting the `{feedId}` with one of the following values: `nwitimes-latest`, `nwitimes-lake`, `nwitimes-porter`, `nwitimes-illinois`, `nwitimes-indiana`, `nwitimes-national`, or `nwitimes-world`.
+This web service is currently deployed on Heroku and can be accessed in a web browser using this link `https://rss-collector-001.herokuapp.com/rssAsJson/{feedId}` and substituting the `{feedId}` with one of the following values: 
 
-For example, to get the headlines for Lake County, IN, use this link [https://rss-collector-001.herokuapp.com/rssAsJson/nwitimes-lake] (https://rss-collector-001.herokuapp.com/rssAsJson/nwitimes-lake).
+`nwitimes-latest`, `nwitimes-lake`, `nwitimes-porter`, `nwitimes-illinois`, `nwitimes-indiana`, `nwitimes-national`, or `nwitimes-world`.
 
+For example, to get the headlines for Lake County, IN, use this link: 
 
-
+[https://rss-collector-001.herokuapp.com/rssAsJson/nwitimes-lake] (https://rss-collector-001.herokuapp.com/rssAsJson/nwitimes-lake).
 
 ## Development stack
 
